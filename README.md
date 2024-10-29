@@ -1,4 +1,4 @@
-# E-Commerce Website with CRUD Operations using Laravel
+# E-Commerce Website with CRUD Operations
 
 This project is a fully functional e-commerce website built with html,css,javascript,bootstrap. It includes comprehensive CRUD (Create, Read, Update, Delete) operations for managing products, categories, and users. The project demonstrates the use of Laravel's powerful features and follows best practices for web development.
 # Features
